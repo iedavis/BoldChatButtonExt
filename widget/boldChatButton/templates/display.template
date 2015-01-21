@@ -1,0 +1,3 @@
+<div data-bind="attr:{id: 'bc-' +id()}">
+	<!-- BoldChat Button is inserted here -->
+</div>

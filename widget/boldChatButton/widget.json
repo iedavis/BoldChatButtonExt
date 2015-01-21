@@ -1,0 +1,11 @@
+{
+  "name": "BoldChat Button Invite",
+  "javascript": "boldChatButton",
+  "availableToAllPages": true,
+  "jsEditable": true,
+  "config": {
+    "bcAccountID": "108550245865682021",
+    "bcWebsiteID": "108352977640410744",
+    "bcButtonID": "108352977892719684"
+  }
+}

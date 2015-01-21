@@ -1,0 +1,27 @@
+{
+    "widgetDescriptorName": "boldChatButton",
+    "properties": [
+
+        {
+            "id": "bcAccountID",
+            "type": "stringType",
+            "name": "bcAccountID",
+            "labelResourceId": "bcAccountIDLabel",
+            "helpTextResourceId": "bcAccountIDHelpText"
+        },
+        {
+            "id": "bcWebsiteID",
+            "type": "stringType",
+            "name": "bcWebsiteID",
+            "labelResourceId": "bcWebsiteIDLabel",
+            "helpTextResourceId": "bcWebsiteIDHelpText"
+        },
+        {
+            "id": "bcButtonID",
+            "type": "stringType",
+            "name": "bcButtonID",
+            "labelResourceId": "bcButtonIDLabel",
+            "helpTextResourceId": "bcButtonIDHelpText"
+        }
+    ]
+}

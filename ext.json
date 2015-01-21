@@ -1,0 +1,9 @@
+{
+  "extensionID": "b0b412d8-fb08-45da-bccd-de2466e13e21",
+  "developerID": "999999",
+  "createdBy": "Ian Davis",
+  "name": "BoldChat Button Invite Extension",
+  "description": "Displays a BoldChat button invitation",
+  "version" :1,
+  "timeCreated": "2015-01-01"
+}
