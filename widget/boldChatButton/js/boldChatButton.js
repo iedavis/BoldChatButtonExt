@@ -42,7 +42,7 @@ define(
           _bcvma.push(["setParameter", "VisitRef", self.user().id()]);
           _bcvma.push(["setParameter", "VisitName", self.user().firstName() + " " + self.user().lastName()]);
           _bcvma.push(["setParameter", "VisitEmail", self.user().emailAddress()]);
-          _bcvma.push(["addStatic", {type: "chat", bdid: self.bcButtonID(), id: 'bc-' + self.id()}]);
+          _bcvma.push(["addStatic", {type: "chat", bdid: self.bcButtonID(), id: 'boldchat-' + self.id()}]);
 
           if(window._bcvmb) require.undef(self.bcScript);
           require([self.bcScript]);
